@@ -1,4 +1,15 @@
 # info-site
 
-سكربت بسيط لجمع المعلومات عن المواقع وعناوين IP:
+A simple script to collect information about websites and IP addresses:
+
 the script by: KiNg-HaCkInG
+
+apt-get install curl
+
+apt -get install git
+
+git clone https://github.com/king-hacking/info-site.git
+
+cd info-site
+
+bash info.sh
