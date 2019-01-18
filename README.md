@@ -8,13 +8,14 @@ the script by: KiNg-HaCkInG
 
 photo: https://c.top4top.net/p_921wll581.jpg
 
+##INSTALL:
 
-pkg install curl
+`pkg install curl`
 
-pkg install git
+`pkg install git`
 
-git clone https://github.com/king-hacking/info-site.git
+`git clone https://github.com/king-hacking/info-site.git`
 
-cd info-site
+`cd info-site`
 
-bash info.sh
+`bash info.sh`
