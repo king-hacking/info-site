@@ -8,7 +8,7 @@ the script by: KiNg-HaCkInG
 
 photo: https://c.top4top.net/p_921wll581.jpg
 
-*_INSTALL:
+*INSTALL:*
 
 `pkg install curl`
 
